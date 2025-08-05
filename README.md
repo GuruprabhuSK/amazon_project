@@ -15,7 +15,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-<img width="1309" height="822" alt="erd" src="https://github.com/user-attachments/assets/6432d712-061c-42b5-844e-38b752506864" />
+https://github.com/GuruprabhuSK/amazon_project/blob/4f317730f543c7f34798858381ab9e6aa9540c50/erd.png
 
 
 ## **Database Setup & Design**
@@ -662,6 +662,6 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 ---
 
 ### **Entity Relationship Diagram (ERD)**
-
+https://github.com/GuruprabhuSK/amazon_project/blob/4f317730f543c7f34798858381ab9e6aa9540c50/erd.png
 
 ---
