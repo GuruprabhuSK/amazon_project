@@ -1,5 +1,6 @@
 # **Amazon USA Sales Analysis Project**
-<img width="3648" height="3068" alt="vecteezy_3d-illustration-of-amazon-logo_18779928" src="https://github.com/user-attachments/assets/dd94b9e7-f4bf-4a05-a1cf-489c6c2ac41e" />
+<img width="6000" height="2650" alt="vecteezy_amazon-logo-png-amazon-icon-transparent-png_19766240" src="https://github.com/user-attachments/assets/c66f7557-b320-40cf-8790-efcfb4f54fc8" />
+
 
 
 ### **Difficulty Level: Advanced**
