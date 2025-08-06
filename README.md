@@ -1,4 +1,3 @@
-
 # **Amazon USA Sales Analysis Project**
 <img width="6000" height="2650" alt="vecteezy_amazon-logo-png-amazon-icon-transparent-png_19766240" src="https://github.com/user-attachments/assets/71b9cc6f-ea94-4cff-b947-9f4ffb3328fc" />
 
@@ -16,7 +15,8 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-https://github.com/GuruprabhuSK/amazon_project/blob/4f317730f543c7f34798858381ab9e6aa9540c50/erd.png
+<img width="1309" height="822" alt="erd (2)" src="https://github.com/user-attachments/assets/1b0e748a-4bd6-4287-80c3-9c84268a7396" />
+
 
 
 ## **Database Setup & Design**
