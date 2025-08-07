@@ -1,5 +1,5 @@
 # **Amazon USA Sales Analysis Project**
-<img width="6000" height="2650" alt="vecteezy_amazon-logo-png-amazon-icon-transparent-png_19766240" src="https://github.com/user-attachments/assets/c66f7557-b320-40cf-8790-efcfb4f54fc8" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2c5bef1e-59ad-47e8-83e4-3230091556f4" />
 
 
 
